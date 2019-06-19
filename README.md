@@ -19,6 +19,9 @@ Or install it yourself as:
     $ gem install show_view_tool
 
 ## Usage
+```ruby
+ShowViewTool::Renderer.copyright('Daniel Shotonwa', 'All right reserved')
+```
 
 
 ## Development
